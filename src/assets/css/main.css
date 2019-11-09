@@ -1,0 +1,147 @@
+.van-grid-item__content{
+	padding:0;
+}
+.van-cell.van-cell--borderless.van-field{
+	position: relative;
+	float: left;
+	left: 20px;
+	width: 150px;
+	top: 5px;
+	
+}
+.sousuo{
+	position: relative;
+	float: left;
+	left: 50px;
+	width: 240px;
+	height: 25px;
+	top: 13px;
+	background-color: wheat;
+	/* border: 2px solid wheat; */
+}
+.mede{
+	position: relative;
+	float: right;
+	right: 5px;
+	height: 30px;
+	width: 40px;
+	top: 15px;
+	background-color: white;
+}
+
+.van-field__control{
+	width: 150px;
+}
+ .tupian{
+	position: relative;
+	float: left;
+	left: 20px;
+	width: 20px;
+	height: 15px;
+	top:20px;
+	left: 30px;
+}
+
+.fenge{
+	height: 10px;
+	width: 100%;
+	background-color: white;
+}
+.myself1{
+	color: red;
+
+}
+.myde{
+	font-size: 16px;
+	text-align: center;
+}
+.myself2{
+	color: white;
+	background-color: firebrick;
+	/* font-size: 3px; */
+}
+.myself3{
+	
+	font-size: 14px;
+}
+.myself4{
+	height: 50px;
+	width: 100%;
+	background-color: white;
+	text-align: center;
+}
+
+.mysed{
+	height: 80px;
+	width: 100%;
+}
+.mysed1{
+	position: relative;
+	float: left;
+	left: 30px;
+	font-size: 22px;
+	top: 10px;
+}
+.mysed2{
+	position: relative;
+	float: left;
+	
+	top: 50px;
+	left: -120px;
+	font-size: 14px;
+}
+.mysed3{
+	position: relative;
+	float: right;
+	right: 70px; 
+	color: red;
+	top: -40px;
+	font-size: 18px;
+	/* top: 50px; */
+}
+.mysed4{
+	position: relative;
+	float: right;
+	right: 20px;
+	top: -10px;
+}
+.mysed{
+	height: 50px;
+	width: 100%;
+}
+/* .van-col.van-col--12{
+	height: 300px;
+} */
+.list1{
+	font-size: 18px;
+}
+.list2{
+	font-size: 16px;
+}
+.list3{
+	color: red;
+	font-size: 16px;
+}
+.list4{
+	font-size: 3px;
+	background-color: white;
+}
+.list5{
+	font-size: 3px;
+	background-color: white;
+}
+.list6{
+	color: red;
+	font-size: 3px;
+	background-color: white;
+}
+.divider_line{
+	height: 0.106667rem;
+	border-bottom: 0.106667rem solid rgb(71, 23, 147);
+	background-color: rgb(71, 23, 147);
+}
+.divider_line1{
+	height: 5px;
+	border-bottom: 0.106667rem solid rgb(71, 23, 147);
+	background-color: rgb(71, 23, 147);
+}
